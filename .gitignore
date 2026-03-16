@@ -1,0 +1,22 @@
+# ENV
+.env
+.env.*
+
+# Node
+node_modules/
+npm-debug.log
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
